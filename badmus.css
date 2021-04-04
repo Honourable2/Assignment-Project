@@ -1,0 +1,32 @@
+.logo{
+background-color: blueviolet;
+size: 10px;
+height: fit-content;
+width: fit-content;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bolder;
+letter-spacing: 2px;
+}
+a{
+    text-decoration: none;
+
+}
+.nav-menu{
+    flex-direction: column;
+    text-decoration: double;
+    text-align: end;
+    margin-top: -70px;
+    text-decoration: none;
+    word-spacing: 2px;
+  
+}
+.header-body{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 40px;
+    background-color: crimson;
+}
+body{
+ 
+}
